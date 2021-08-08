@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with PhysiCell (http://PhysiCell.MathCancer.org/) -->
+<svg 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:cc="http://creativecommons.org/ns#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:svg="http://www.w3.org/2000/svg" 
+ xmlns="http://www.w3.org/2000/svg" 
+ version="1.1" 
+ width="1000" 
+ height="1070" 
+ id="svg2">
+  <rect x="0" y="0" width="1000" height="1070" stroke-width="2" stroke="white" fill="white"/>
+  <text x="12.5" y="30"
+   font-family="Arial" font-size="25" fill="black" >
+   Current time: 0 days, 6 hours, and 55.00 minutes, z = 0.00 &#956;m
+  </text>
+  <text x="12.5" y="57.5"
+   font-family="Arial" font-size="23.75" fill="black" >
+   212 agents
+  </text>
+ <g id="tissue" 
+    transform="translate(0,1070) scale(1,-1)">
+  <g id="ECM">
+  </g>
+  <g id="cells">
+   <g id="cell0">
+  <circle cx="419.862" cy="442.241" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="419.862" cy="442.241" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell1">
+  <circle cx="421.762" cy="469.543" r="7.7401" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="421.762" cy="469.543" r="4.70142" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell2">
+  <circle cx="423.052" cy="481.948" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="423.052" cy="481.948" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell3">
+  <circle cx="416.453" cy="492.748" r="7.86286" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="416.453" cy="492.748" r="4.77207" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell4">
+  <circle cx="424.691" cy="506.308" r="8.41271" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="424.691" cy="506.308" r="5.05167" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell5">
+  <circle cx="411.159" cy="528.542" r="6.41935" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="411.159" cy="528.542" r="3.91902" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell6">
+  <circle cx="426.172" cy="541.533" r="8.41271" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="426.172" cy="541.533" r="5.05167" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell7">
+  <circle cx="434.257" cy="446.055" r="8.10448" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="434.257" cy="446.055" r="4.90539" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell8">
+  <circle cx="426.389" cy="458.076" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="426.389" cy="458.076" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell9">
+  <circle cx="434.618" cy="471.122" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="434.618" cy="471.122" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell10">
+  <circle cx="436.462" cy="484.472" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="436.462" cy="484.472" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell11">
+  <circle cx="437.918" cy="502.437" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="437.918" cy="502.437" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell12">
+  <circle cx="430.673" cy="519.268" r="8.01277" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="430.673" cy="519.268" r="4.85584" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell13">
+  <circle cx="438.902" cy="537.281" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="438.902" cy="537.281" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell14">
+  <circle cx="436.644" cy="552.057" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="436.644" cy="552.057" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell15">
+  <circle cx="438.886" cy="567.015" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="438.886" cy="567.015" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell16">
+  <circle cx="452.137" cy="425.747" r="7.75853" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="452.137" cy="425.747" r="4.72904" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell17">
+  <circle cx="447.647" cy="447.41" r="7.49456" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="447.647" cy="447.41" r="4.55548" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell18">
+  <circle cx="444.785" cy="457.867" r="6.67717" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="444.785" cy="457.867" r="4.00951" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell19">
+  <circle cx="448.12" cy="468.134" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="448.12" cy="468.134" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell20">
+  <circle cx="453.343" cy="484.395" r="6.73287" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="453.343" cy="484.395" r="4.05039" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell21">
+  <circle cx="445.052" cy="492.794" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="445.052" cy="492.794" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell22">
+  <circle cx="450.466" cy="505.691" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="450.466" cy="505.691" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell23">
+  <circle cx="441.456" cy="525.178" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="441.456" cy="525.178" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell24">
+  <circle cx="448.673" cy="543.557" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="448.673" cy="543.557" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell25">
+  <circle cx="449.496" cy="558.248" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="449.496" cy="558.248" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell26">
+  <circle cx="443.578" cy="578.048" r="6.99069" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="443.578" cy="578.048" r="4.23498" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell27">
+  <circle cx="465.64" cy="402.265" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="465.64" cy="402.265" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell28">
+  <circle cx="462.1" cy="423.574" r="6.89675" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="462.1" cy="423.574" r="4.17024" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell29">
+  <circle cx="460.238" cy="447.34" r="7.83019" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="460.238" cy="447.34" r="4.75343" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell30">
+  <circle cx="455.714" cy="458.328" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="455.714" cy="458.328" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell31">
+  <circle cx="460.062" cy="473.407" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="460.062" cy="473.407" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell32">
+  <circle cx="463.04" cy="486.834" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="463.04" cy="486.834" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell33">
+  <circle cx="457.319" cy="496.587" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="457.319" cy="496.587" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell34">
+  <circle cx="451.327" cy="518.171" r="6.30393" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="451.327" cy="518.171" r="3.8673" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell35">
+  <circle cx="459.478" cy="541.785" r="6.18436" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="459.478" cy="541.785" r="3.78129" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell36">
+  <circle cx="459.031" cy="551.03" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="459.031" cy="551.03" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell37">
+  <circle cx="463.165" cy="563.46" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="463.165" cy="563.46" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell38">
+  <circle cx="465.33" cy="577.279" r="8.41271" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="465.33" cy="577.279" r="5.05167" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell39">
+  <circle cx="466.803" cy="591.193" r="7.70049" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="466.803" cy="591.193" r="4.67828" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell40">
+  <circle cx="479.953" cy="400.107" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="479.953" cy="400.107" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell41">
+  <circle cx="475.169" cy="411.137" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="475.169" cy="411.137" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell42">
+  <circle cx="478.94" cy="434.113" r="7.3599" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="478.94" cy="434.113" r="4.47294" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell43">
+  <circle cx="469.307" cy="454.632" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="469.307" cy="454.632" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell44">
+  <circle cx="474.408" cy="467.923" r="6.80881" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="474.408" cy="467.923" r="4.10709" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell45">
+  <circle cx="472.908" cy="478.784" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="472.908" cy="478.784" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell46">
+  <circle cx="471.883" cy="493.75" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="471.883" cy="493.75" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell47">
+  <circle cx="465.213" cy="503.355" r="8.09544" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="465.213" cy="503.355" r="4.90058" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell48">
+  <circle cx="476.562" cy="520.517" r="7.93688" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="476.562" cy="520.517" r="4.81381" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell49">
+  <circle cx="469.38" cy="541.803" r="6.71158" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="469.38" cy="541.803" r="4.03435" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell50">
+  <circle cx="480.664" cy="558.716" r="7.41548" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="480.664" cy="558.716" r="4.50723" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell51">
+  <circle cx="475.08" cy="568.927" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="475.08" cy="568.927" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell52">
+  <circle cx="477.347" cy="584.052" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="477.347" cy="584.052" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell53">
+  <circle cx="488.608" cy="408.042" r="6.71158" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="488.608" cy="408.042" r="4.03435" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell54">
+  <circle cx="473.203" cy="423.544" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="473.203" cy="423.544" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell55">
+  <circle cx="480.955" cy="447.152" r="7.83019" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="480.955" cy="447.152" r="4.75343" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell56">
+  <circle cx="491.317" cy="455.254" r="7.98892" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="491.317" cy="455.254" r="4.84272" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell57">
+  <circle cx="485.59" cy="470.638" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="485.59" cy="470.638" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell58">
+  <circle cx="481.853" cy="485.191" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="481.853" cy="485.191" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell59">
+  <circle cx="483.528" cy="496.473" r="7.44242" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="483.528" cy="496.473" r="4.52373" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell60">
+  <circle cx="486.415" cy="516.61" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="486.415" cy="516.61" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell61">
+  <circle cx="482.702" cy="530.387" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="482.702" cy="530.387" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell62">
+  <circle cx="485.485" cy="548.774" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="485.485" cy="548.774" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell63">
+  <circle cx="491.624" cy="561.757" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="491.624" cy="561.757" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell64">
+  <circle cx="486.748" cy="578.685" r="6.71158" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="486.748" cy="578.685" r="4.03435" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell65">
+  <circle cx="485.632" cy="598.385" r="7.27253" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="485.632" cy="598.385" r="4.41835" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell66">
+  <circle cx="500.77" cy="411.908" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="500.77" cy="411.908" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell67">
+  <circle cx="487.239" cy="418.971" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="487.239" cy="418.971" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell68">
+  <circle cx="499.665" cy="425.26" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="499.665" cy="425.26" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell69">
+  <circle cx="497.227" cy="446.636" r="6.80881" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="497.227" cy="446.636" r="4.10709" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell70">
+  <circle cx="496.433" cy="465.285" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="496.433" cy="465.285" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell71">
+  <circle cx="491.806" cy="482.473" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="491.806" cy="482.473" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell72">
+  <circle cx="494.946" cy="494.496" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="494.946" cy="494.496" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell73">
+  <circle cx="499.417" cy="514.13" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="499.417" cy="514.13" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell74">
+  <circle cx="495.14" cy="526.262" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="495.14" cy="526.262" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell75">
+  <circle cx="494.171" cy="537.773" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="494.171" cy="537.773" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell76">
+  <circle cx="500.692" cy="546.072" r="6.75639" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="500.692" cy="546.072" r="4.06813" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell77">
+  <circle cx="499.31" cy="570.116" r="7.9229" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="499.31" cy="570.116" r="4.80599" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell78">
+  <circle cx="499.174" cy="581.31" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="499.174" cy="581.31" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell79">
+  <circle cx="500.629" cy="594.664" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="500.629" cy="594.664" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell80">
+  <circle cx="516.089" cy="410.018" r="7.59183" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="516.089" cy="410.018" r="4.61399" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell81">
+  <circle cx="515.225" cy="432.509" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="515.225" cy="432.509" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell82">
+  <circle cx="508.564" cy="444.619" r="7.33129" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="508.564" cy="444.619" r="4.45516" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell83">
+  <circle cx="504.758" cy="455.566" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="504.758" cy="455.566" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell84">
+  <circle cx="508.452" cy="466.007" r="7.0545" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="508.452" cy="466.007" r="4.27772" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell85">
+  <circle cx="502.417" cy="475.45" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="502.417" cy="475.45" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell86">
+  <circle cx="505.904" cy="502.345" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="505.904" cy="502.345" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell87">
+  <circle cx="513.082" cy="513.42" r="7.96365" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="513.082" cy="513.42" r="4.82873" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell88">
+  <circle cx="507.17" cy="535.736" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="507.17" cy="535.736" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell89">
+  <circle cx="510.666" cy="548.635" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="510.666" cy="548.635" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell90">
+  <circle cx="517.113" cy="560.554" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="517.113" cy="560.554" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell91">
+  <circle cx="512.844" cy="572.162" r="8.41271" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="512.844" cy="572.162" r="5.05167" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell92">
+  <circle cx="511.53" cy="584.786" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="511.53" cy="584.786" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell93">
+  <circle cx="529.624" cy="410.294" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="529.624" cy="410.294" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell94">
+  <circle cx="536.188" cy="424.157" r="7.97646" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="536.188" cy="424.157" r="4.83584" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell95">
+  <circle cx="528.163" cy="433.937" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="528.163" cy="433.937" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell96">
+  <circle cx="521.006" cy="445.271" r="7.64976" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="521.006" cy="445.271" r="4.66706" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell97">
+  <circle cx="526.688" cy="461.774" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="526.688" cy="461.774" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell98">
+  <circle cx="520.516" cy="493.553" r="7.41088" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="520.516" cy="493.553" r="4.53284" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell99">
+  <circle cx="531.629" cy="498.337" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="531.629" cy="498.337" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell100">
+  <circle cx="518.472" cy="503.673" r="7.49456" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="518.472" cy="503.673" r="4.55548" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell101">
+  <circle cx="519.156" cy="529.051" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="519.156" cy="529.051" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell102">
+  <circle cx="530.387" cy="534.37" r="8.06667" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="530.387" cy="534.37" r="4.88515" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell103">
+  <circle cx="527.302" cy="552.36" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="527.302" cy="552.36" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell104">
+  <circle cx="529.673" cy="565.59" r="8.41271" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="529.673" cy="565.59" r="5.05167" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell105">
+  <circle cx="523.33" cy="578.091" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="523.33" cy="578.091" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell106">
+  <circle cx="543.262" cy="412.415" r="7.51976" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="543.262" cy="412.415" r="4.57072" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell107">
+  <circle cx="540.593" cy="436.887" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="540.593" cy="436.887" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell108">
+  <circle cx="532.659" cy="448.222" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="532.659" cy="448.222" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell109">
+  <circle cx="548.079" cy="467.092" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="548.079" cy="467.092" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell110">
+  <circle cx="529.528" cy="484.198" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="529.528" cy="484.198" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell111">
+  <circle cx="541.132" cy="490.795" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="541.132" cy="490.795" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell112">
+  <circle cx="540.72" cy="507.712" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="540.72" cy="507.712" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell113">
+  <circle cx="528.469" cy="510.939" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="528.469" cy="510.939" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell114">
+  <circle cx="532.631" cy="522.104" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="532.631" cy="522.104" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell115">
+  <circle cx="536.221" cy="544.936" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="536.221" cy="544.936" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell116">
+  <circle cx="543.752" cy="565.907" r="7.11815" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="543.752" cy="565.907" r="4.31954" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell117">
+  <circle cx="536.955" cy="575.941" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="536.955" cy="575.941" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell118">
+  <circle cx="549.285" cy="425.846" r="8.41271" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="549.285" cy="425.846" r="5.05167" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell119">
+  <circle cx="554.607" cy="439.204" r="8.41271" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="554.607" cy="439.204" r="5.05167" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell120">
+  <circle cx="553.627" cy="457.734" r="7.96365" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="553.627" cy="457.734" r="4.82873" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell121">
+  <circle cx="558.888" cy="475.016" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="558.888" cy="475.016" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell122">
+  <circle cx="547.044" cy="481.077" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="547.044" cy="481.077" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell123">
+  <circle cx="549.586" cy="498.715" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="549.586" cy="498.715" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell124">
+  <circle cx="554.35" cy="511.394" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="554.35" cy="511.394" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell125">
+  <circle cx="545.036" cy="519.121" r="7.97646" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="545.036" cy="519.121" r="4.83584" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell126">
+  <circle cx="543.24" cy="532.761" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="543.24" cy="532.761" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell127">
+  <circle cx="549.198" cy="555.316" r="6.71158" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="549.198" cy="555.316" r="4.03435" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell128">
+  <circle cx="557.917" cy="564.533" r="8.41271" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="557.917" cy="564.533" r="5.05167" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell129">
+  <circle cx="578.798" cy="455.248" r="7.95045" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="578.798" cy="455.248" r="4.82139" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell130">
+  <circle cx="564.043" cy="464.548" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="564.043" cy="464.548" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell131">
+  <circle cx="571.023" cy="480.75" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="571.023" cy="480.75" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell132">
+  <circle cx="559.691" cy="488.243" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="559.691" cy="488.243" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell133">
+  <circle cx="562.954" cy="501.877" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="562.954" cy="501.877" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell134">
+  <circle cx="566.857" cy="516.446" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="566.857" cy="516.446" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell135">
+  <circle cx="567.664" cy="530.279" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="567.664" cy="530.279" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell136">
+  <circle cx="555.265" cy="538.761" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="555.265" cy="538.761" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell137">
+  <circle cx="568.547" cy="556.172" r="7.24243" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="568.547" cy="556.172" r="4.39934" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell138">
+  <circle cx="575.443" cy="468.694" r="8.41271" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="575.443" cy="468.694" r="5.05167" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell139">
+  <circle cx="584.344" cy="482.789" r="8.41271" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="584.344" cy="482.789" r="5.05167" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell140">
+  <circle cx="573.511" cy="493.321" r="8.10448" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="573.511" cy="493.321" r="4.90539" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell141">
+  <circle cx="577.265" cy="507.283" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="577.265" cy="507.283" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell142">
+  <circle cx="580.658" cy="520.811" r="7.86286" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="580.658" cy="520.811" r="4.77207" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell143">
+  <circle cx="569.712" cy="543.244" r="8.41271" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="569.712" cy="543.244" r="5.05167" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell144">
+  <circle cx="429.968" cy="432.934" r="7.40487" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="429.968" cy="432.934" r="4.52439" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell145">
+  <circle cx="587.381" cy="496.753" r="6.7686" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="587.381" cy="496.753" r="4.12855" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell146">
+  <circle cx="476.676" cy="507.24" r="7.68398" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="476.676" cy="507.24" r="4.68649" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell147">
+  <circle cx="538.965" cy="459.416" r="7.89701" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="538.965" cy="459.416" r="4.80426" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell148">
+  <circle cx="520.695" cy="542.609" r="8.06667" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="520.695" cy="542.609" r="4.88515" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell149">
+  <circle cx="536.025" cy="472.334" r="7.89701" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="536.025" cy="472.334" r="4.80426" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell150">
+  <circle cx="441.375" cy="513.048" r="8.01277" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="441.375" cy="513.048" r="4.85584" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell151">
+  <circle cx="450.93" cy="413.891" r="8.01277" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="450.93" cy="413.891" r="4.85584" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell152">
+  <circle cx="479.843" cy="458.198" r="7.98892" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="479.843" cy="458.198" r="4.84272" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell153">
+  <circle cx="523.124" cy="421.335" r="7.97646" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="523.124" cy="421.335" r="4.83584" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell154">
+  <circle cx="555.573" cy="525.588" r="7.97646" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="555.573" cy="525.588" r="4.83584" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell155">
+  <circle cx="439.83" cy="422.754" r="7.75853" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="439.83" cy="422.754" r="4.72904" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell156">
+  <circle cx="507.524" cy="523.925" r="7.96365" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="507.524" cy="523.925" r="4.82873" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell157">
+  <circle cx="545.362" cy="449.52" r="7.96365" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="545.362" cy="449.52" r="4.82873" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell158">
+  <circle cx="560.38" cy="448.398" r="6.59837" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="560.38" cy="448.398" r="4.06441" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell159">
+  <circle cx="470.836" cy="530.641" r="7.93688" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="470.836" cy="530.641" r="4.81381" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell160">
+  <circle cx="504.165" cy="558.796" r="7.9229" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="504.165" cy="558.796" r="4.80599" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell161">
+  <circle cx="515.357" cy="483.081" r="7.34368" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="515.357" cy="483.081" r="4.49368" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell162">
+  <circle cx="579.695" cy="533.777" r="7.86286" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="579.695" cy="533.777" r="4.77207" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell163">
+  <circle cx="467.699" cy="514.569" r="7.68398" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="467.699" cy="514.569" r="4.68649" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell164">
+  <circle cx="428.211" cy="493.71" r="7.86286" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="428.211" cy="493.71" r="4.77207" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell165">
+  <circle cx="471.052" cy="442.746" r="7.83019" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="471.052" cy="442.746" r="4.75343" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell166">
+  <circle cx="489.737" cy="431.825" r="7.83019" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="489.737" cy="431.825" r="4.75343" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell167">
+  <circle cx="517.53" cy="455.089" r="7.64976" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="517.53" cy="455.089" r="4.66706" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell168">
+  <circle cx="430.58" cy="529.929" r="5.93846" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="430.58" cy="529.929" r="3.64257" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell169">
+  <circle cx="415.206" cy="461.154" r="6.16187" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="415.206" cy="461.154" r="3.74421" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell170">
+  <circle cx="510.674" cy="493.346" r="6.58618" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="510.674" cy="493.346" r="4.05784" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell171">
+  <circle cx="453.889" cy="584.347" r="7.70049" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="453.889" cy="584.347" r="4.67828" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell172">
+  <circle cx="571.381" cy="444.511" r="7.43013" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="571.381" cy="444.511" r="4.54313" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell173">
+  <circle cx="417.396" cy="519" r="7.35206" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="417.396" cy="519" r="4.49918" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell174">
+  <circle cx="523.216" cy="472.317" r="7.34368" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="523.216" cy="472.317" r="4.49368" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell175">
+  <circle cx="510.572" cy="420.684" r="7.59183" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="510.572" cy="420.684" r="4.61399" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell176">
+  <circle cx="443.499" cy="435.295" r="7.40487" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="443.499" cy="435.295" r="4.52439" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell177">
+  <circle cx="556.226" cy="415.579" r="7.51976" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="556.226" cy="415.579" r="4.57072" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell178">
+  <circle cx="521.057" cy="518.883" r="7.49456" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="521.057" cy="518.883" r="4.55548" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell179">
+  <circle cx="451.638" cy="530.652" r="7.49456" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="451.638" cy="530.652" r="4.55548" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell180">
+  <circle cx="455.225" cy="436.869" r="7.49456" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="455.225" cy="436.869" r="4.55548" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell181">
+  <circle cx="486.684" cy="505.713" r="6.18378" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="486.684" cy="505.713" r="3.78366" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell182">
+  <circle cx="471.139" cy="553.221" r="7.41548" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="471.139" cy="553.221" r="4.50723" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell183">
+  <circle cx="465.941" cy="433.909" r="7.3599" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="465.941" cy="433.909" r="4.47294" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell184">
+  <circle cx="505.125" cy="434.762" r="5.86404" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="505.125" cy="434.762" r="3.56764" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell185">
+  <circle cx="490.052" cy="588.09" r="7.27253" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="490.052" cy="588.09" r="4.41835" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell186">
+  <circle cx="504.045" cy="486.479" r="6.58618" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="504.045" cy="486.479" r="4.05784" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell187">
+  <circle cx="567.667" cy="454.643" r="6.59837" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="567.667" cy="454.643" r="4.06441" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell188">
+  <circle cx="559.094" cy="550.591" r="7.24243" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="559.094" cy="550.591" r="4.39934" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell189">
+  <circle cx="461.138" cy="522.771" r="7.21189" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="461.138" cy="522.771" r="4.37993" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell190">
+  <circle cx="458.123" cy="511.979" r="6.30393" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="458.123" cy="511.979" r="3.8673" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell191">
+  <circle cx="538.896" cy="556.806" r="7.11815" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="538.896" cy="556.806" r="4.31954" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell192">
+  <circle cx="513.536" cy="473.552" r="5.90483" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="513.536" cy="473.552" r="3.60982" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell193">
+  <circle cx="597.1" cy="487.364" r="6.7686" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="597.1" cy="487.364" r="4.12855" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell194">
+  <circle cx="452.734" cy="570.956" r="6.99069" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="452.734" cy="570.956" r="4.23498" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell195">
+  <circle cx="494.971" cy="504.653" r="6.18378" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="494.971" cy="504.653" r="3.78366" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell196">
+  <circle cx="463.574" cy="414.122" r="6.89675" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="463.574" cy="414.122" r="4.17024" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell197">
+  <circle cx="516.688" cy="465.46" r="5.90483" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="516.688" cy="465.46" r="3.60982" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell198">
+  <circle cx="460.401" cy="534.249" r="6.18436" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="460.401" cy="534.249" r="3.78129" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell199">
+  <circle cx="413.573" cy="539.193" r="6.41935" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="413.573" cy="539.193" r="3.91902" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell200">
+  <circle cx="488.925" cy="442.182" r="6.80881" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="488.925" cy="442.182" r="4.10709" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell201">
+  <circle cx="465.502" cy="464.252" r="6.80881" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="465.502" cy="464.252" r="4.10709" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell202">
+  <circle cx="421.559" cy="529.356" r="5.93846" stroke-width="0.5" stroke="black" fill="yellow"/>
+  <circle cx="421.559" cy="529.356" r="3.64257" stroke-width="0.5" stroke="yellow" fill="yellow"/>
+   </g>
+   <g id="cell203">
+  <circle cx="495.323" cy="553.197" r="6.75639" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="495.323" cy="553.197" r="4.06813" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell204">
+  <circle cx="446.109" cy="479.488" r="6.73287" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="446.109" cy="479.488" r="4.05039" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell205">
+  <circle cx="497.5" cy="437.19" r="5.86404" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="497.5" cy="437.19" r="3.56764" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell206">
+  <circle cx="494.347" cy="398.641" r="6.71158" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="494.347" cy="398.641" r="4.03435" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell207">
+  <circle cx="479.035" cy="541.5" r="6.71158" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="479.035" cy="541.5" r="4.03435" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell208">
+  <circle cx="547.24" cy="545.885" r="6.71158" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="547.24" cy="545.885" r="4.03435" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell209">
+  <circle cx="486.652" cy="570.333" r="6.71158" stroke-width="0.5" stroke="black" fill="blue"/>
+  <circle cx="486.652" cy="570.333" r="4.03435" stroke-width="0.5" stroke="blue" fill="blue"/>
+   </g>
+   <g id="cell210">
+  <circle cx="417.894" cy="452.33" r="6.16187" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="417.894" cy="452.33" r="3.74421" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+   <g id="cell211">
+  <circle cx="435.575" cy="459.719" r="6.67717" stroke-width="0.5" stroke="black" fill="Red"/>
+  <circle cx="435.575" cy="459.719" r="4.00951" stroke-width="0.5" stroke="Red" fill="Red"/>
+   </g>
+  </g>
+ </g>
+  <rect x="775" y="1035" width="200" height="10" stroke-width="2" stroke="rgb(255,255,255)" fill="rgb(0,0,0)"/>
+  <text x="781.25" y="1028.75"
+   font-family="Arial" font-size="25" fill="black" >
+   200 &#956;m
+  </text>
+  <text x="25" y="1045"
+   font-family="Arial" font-size="18.75" fill="black" >
+   0 days, 0 hours, 2 minutes, and 46.7078 seconds
+  </text>
+  <rect x="0" y="70" width="1000" height="1000" stroke-width="2" stroke="rgb(0,0,0)" fill="none"/>
+</svg>
